@@ -1,5 +1,6 @@
 # COSC-1337
-These are some of the java projects i did at UT-Tyler. 
+These are some of the java programs i wrote at UT-Tyler. 
+
 I have either normal comments or Javadoc in most of them, in order to explain how i wrote the program.
 
   # Project Name - Information about Cars/Airplanes

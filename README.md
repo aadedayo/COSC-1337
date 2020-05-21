@@ -4,7 +4,7 @@ I have either normal comments or Javadoc in most of them, in order to explain ho
 
 # Project Name - Information about Cars/Airplanes
   * File name - Airplane-1.java
-  This class was created to encapsulate information about an Airplane, which can be reused in the main class (That is what i like the       most about Java; you can reuse almost everything.)
+    *This class was created to encapsulate information about an Airplane, which can be reused in the main class (That is what i like the       most about Java; you can reuse almost everything.)
   * File name - Car-2 (1).java
   This class was created to encapsulate information about an Car.
   * File name -Lab7L3 (1).java

@@ -1,7 +1,14 @@
 # COSC-1337
-These are some of the java programs i wrote at UT-Tyler. 
+OBJECT ORIENTED PROGRAMMING - COSC 1337 introduces the concepts of object-oriented programming to students with a background in the
+procedural paradigm. Topics covered include a review of control structures and data types, the object-oriented
+programming paradigm, object-oriented design, an overview of programming language principles, simple
+analysis of algorithms, basic searching and sorting techniques, and an introduction to software engineering
+issues.
+
+These are some of the java programs i wrote in this class. 
 
 I have either normal comments or Javadoc in most of them, in order to explain how i wrote the program.
+
 
   # Project Name - Information about Cars/Airplanes
   * File name - Airplane-1.java

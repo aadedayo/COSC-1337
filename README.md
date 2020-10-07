@@ -58,7 +58,7 @@ I have either normal comments or Javadoc in most of them, in order to explain ho
   # Project Name - Exceptions
   * File name - ExceptionLab.java
   
-  This was the main and only class in this project. It was created to practice the concept of tryand catch.
+  This was the main and only class in this project. It was created to practice the concept of try and catch.
   * File name - grades.txt
   
   This was just a text file, creayed to store the grades that was used in the main class.
